@@ -1,6 +1,7 @@
 # Yoga Routine with JavaScript OOP
 
 With the need to be fit and healthy on the rise today, Yoga-routine proves to be a valuable solution.
+
 It can classify  differents yoga poses (Remove, add) acording the time.
   
 ## 📌 Tech Stack
