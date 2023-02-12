@@ -1,7 +1,7 @@
 # Yoga Routine with JS
 
 With the need to be fit and healthy on the rise today, Yoga-routine proves to be a valuable solution.
-It can classify  differents yoga poses (Remove, add) acording the time
+It can classify  differents yoga poses (Remove, add) acording the time.
   
 ## 📌 Tech Stack
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
